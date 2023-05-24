@@ -1,0 +1,23 @@
+.box{
+  height: 500px;
+  background-color: lightgrey;
+}
+.dayLight{
+  background-color: yellow;
+}
+button{
+  background-color: blue;
+  stroke: none;
+  padding: 10px;
+  margin-left: 10px;
+  border-radius: 10px;
+  text-transform: uppercase;
+  box-shadow: 10px;
+  font-size: 15px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: white;
+}
+button:hover{
+  background-color: lightblue;
+  color: black;
+}
