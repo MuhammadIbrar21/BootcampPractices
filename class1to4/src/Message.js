@@ -1,10 +1,8 @@
 import React from "react";
 
-function Message(props){
+function Message(){
     return(
-        <div>
-            <h1>Value of Counter is: {props.counter}</h1>
-        </div>
+        <div></div>
     );
 }
 export default Message;
